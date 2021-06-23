@@ -66,7 +66,6 @@ public class AppSettings : MonoBehaviour
         return null;
     }
 
-
     public Animator GetAvatarAnimator()
     {
         if (avatarAnimator != null)
